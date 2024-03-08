@@ -1,0 +1,50 @@
+.question-options {
+    margin: 30px;
+}
+
+.question-options label {
+    font-size: 1rem;
+}
+
+.f-right {
+    float: right;
+}
+
+.f-left {
+    float: left;
+}
+
+.card .card-header {
+    padding: 20px;
+    font-size: 1.3rem;
+}
+
+.end-section {
+    text-align: center;
+    margin: 30px;
+}
+
+.quizz-res {
+    font-size: 1rem !important;
+}
+
+.btn-section {
+    margin: 30px;
+    padding-bottom: 10px;
+}
+
+#time {
+    float: right;
+}
+
+.table td,
+.table tr th {
+    text-align: center !important;
+}
+
+.summary-div {
+    width: 40%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
